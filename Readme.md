@@ -1,5 +1,7 @@
 **Instructions to setup the trainer**
 
+Works on any linux distribution
+
 conda create -p venv python=3.8
 
 conda activate ./venv
